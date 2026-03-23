@@ -203,5 +203,5 @@ BERT: 👉 "The sky is \_\_\_" → "blue"
 
 ------------------------------------------------------------------------
 
-🔥 Ab tum LLMs ka full journey samajh gaye ho --- beginner se advanced
+🔥 Ab tum LLMs ka full journey samajh gaaye ho --- beginner se advanced
 tak!
